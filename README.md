@@ -1,2 +1,2 @@
 # myfirstrep
-my first repository
+my first repository and I'm working on it.
